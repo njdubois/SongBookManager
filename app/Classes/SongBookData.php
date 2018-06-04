@@ -4,6 +4,10 @@
  * User: nick
  * Date: 6/4/18
  * Time: 3:14 PM
+ *
+ * Because I am not adding a database to this project and am only going to work with a static starting state, I am creating
+ * this class to act as an eloquent model representing a list of songs.
+ *
  */
 
 namespace App\Classes;
